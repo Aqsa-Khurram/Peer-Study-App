@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Peer Study Hub",
+    "slug": "peer-study-hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FBFAF6"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FBFAF6"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
